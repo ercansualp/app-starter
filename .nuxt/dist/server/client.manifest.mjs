@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/ercan/OneDrive/Desktop/last_28/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
